@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ul li {
+    color: royalblue;
+    font-style: italic;
+}
+p {
+    background-color: lightgrey;
+    width: 200px;
+    height: 200px;
+}
